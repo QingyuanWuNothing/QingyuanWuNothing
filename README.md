@@ -2,7 +2,7 @@
 - 👀 I’m interested in Reinforcement Learning
 - 🌱 I’m currently learning Reinforcement Learning
 - 💞️ I’m looking to collaborate on Reinforcement Learning
-- 📫 How to reach me ...
+- 📫 How to reach me qingyuanwu4work@gmail.com
 
 <!---
 QingyuanWuNothing/QingyuanWuNothing is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
