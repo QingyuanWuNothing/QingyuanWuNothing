@@ -1,2 +1,2 @@
 ![capy](./capy.jpg)
-#### bootstrapping yourself on the reinforcing mind
+#### self-bootstrapping on the reinforcing mind
